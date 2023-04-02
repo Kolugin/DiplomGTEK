@@ -1,0 +1,53 @@
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\MyDB.mdb
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\MyDiplomProject.exe.config
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\MyDiplomProject.exe
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\MyDiplomProject.pdb
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form1.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form2.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form3.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form4.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form5.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form6.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Properties.Resources.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.exe
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.pdb
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form7.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\MyDBDataSet.xsd
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Untitled-1.ico
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Spravka.chm
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Spravochnick.chm
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Гос 1.docx
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\гос 2.docx
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\гос 3.docx
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Положение оо ОТДЕЛЕ ОХРАНЫ ТРУДА И ЭКОЛОГИИ - 2017    ОБРАЗЕЦ 2017  (1).doc
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Release\Materials\№ 12 ИНСТРУКЦИЯ по охране труда для слесаря  КИП и А.docx
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\MyDB.mdb
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Untitled-1.ico
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Spravka.chm
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Spravochnick.chm
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Гос 1.docx
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\гос 2.docx
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\гос 3.docx
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\Положение оо ОТДЕЛЕ ОХРАНЫ ТРУДА И ЭКОЛОГИИ - 2017    ОБРАЗЕЦ 2017  (1).doc
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\Materials\№ 12 ИНСТРУКЦИЯ по охране труда для слесаря  КИП и А.docx
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\MyDBDataSet.xsd
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\MyDiplomProject.exe.config
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\MyDiplomProject.exe
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\bin\Release\MyDiplomProject.pdb
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csproj.AssemblyReference.cache
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form1.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form2.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form3.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form4.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form5.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form6.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Form7.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.Properties.Resources.resources
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csproj.GenerateResource.cache
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.csproj.CoreCompileInputs.cache
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.exe
+C:\Users\Kolugin\Desktop\MyDiplomProject\MyDiplomProject\obj\Release\MyDiplomProject.pdb

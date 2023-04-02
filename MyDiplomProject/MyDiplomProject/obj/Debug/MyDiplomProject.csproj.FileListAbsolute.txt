@@ -1,0 +1,26 @@
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form1.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Properties.Resources.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\MyDiplomProject.exe.config
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\MyDiplomProject.exe
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\MyDiplomProject.pdb
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form2.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.exe
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.pdb
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form3.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form4.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form6.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form5.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\obj\Debug\MyDiplomProject.Form7.resources
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\MyDBDataSet.xsd
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\MyDB.mdb
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Untitled-1.ico
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\Spravka.chm
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\Spravochnick.chm
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\Гос 1.docx
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\гос 2.docx
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\гос 3.docx
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\Положение оо ОТДЕЛЕ ОХРАНЫ ТРУДА И ЭКОЛОГИИ - 2017    ОБРАЗЕЦ 2017  (1).doc
+C:\Users\Professional\source\repos\MyDiplomProject\MyDiplomProject\bin\Debug\Materials\№ 12 ИНСТРУКЦИЯ по охране труда для слесаря  КИП и А.docx
